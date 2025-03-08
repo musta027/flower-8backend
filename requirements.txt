@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+psycopg2-binary
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]
+python-multipart
+asyncpg
+python-dotenv
+starlette==0.19.1
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+
